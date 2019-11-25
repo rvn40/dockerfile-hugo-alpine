@@ -42,5 +42,5 @@ WORKDIR /site
 # Expose port for live server
 # EXPOSE 1313
 
-ENTRYPOINT ["hugo"]
-CMD ["--help"]
+#ENTRYPOINT ["hugo"]
+CMD ["hugo"]
