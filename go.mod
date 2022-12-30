@@ -8,7 +8,7 @@ require (
 	github.com/alecthomas/chroma v0.7.0
 	github.com/alecthomas/repr v0.0.0-20181024024818-d37bc2a10ba1 // indirect
 	github.com/armon/go-radix v1.0.0
-	github.com/aws/aws-sdk-go v1.19.40
+	github.com/aws/aws-sdk-go v1.33.0
 	github.com/bep/debounce v1.2.0
 	github.com/bep/gitmap v1.1.1
 	github.com/bep/go-tocss v0.6.0
@@ -40,7 +40,7 @@ require (
 	github.com/niklasfasching/go-org v0.1.6
 	github.com/olekukonko/tablewriter v0.0.0-20180506121414-d4647c9c7a84
 	github.com/pelletier/go-toml v1.4.0 // indirect
-	github.com/pkg/errors v0.8.1
+	github.com/pkg/errors v0.9.1
 	github.com/rogpeppe/go-internal v1.3.0
 	github.com/russross/blackfriday v1.5.3-0.20190124082335-a477dd164691
 	github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd
@@ -59,7 +59,6 @@ require (
 	go.opencensus.io v0.22.0 // indirect
 	gocloud.dev v0.15.0
 	golang.org/x/image v0.0.0-20190523035834-f03afa92d3ff
-	golang.org/x/net v0.0.0-20190606173856-1492cefac77f // indirect
 	golang.org/x/oauth2 v0.0.0-20190523182746-aaccbc9213b0 // indirect
 	golang.org/x/sync v0.0.0-20190423024810-112230192c58
 	golang.org/x/sys v0.0.0-20190712062909-fae7ac547cb7 // indirect
